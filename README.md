@@ -1,5 +1,4 @@
-# zk-stu035-portfolio
-#mahak#
+# mahak
 **About me**
 -Digital marketing
 -Web developer
